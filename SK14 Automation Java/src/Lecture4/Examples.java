@@ -13,10 +13,11 @@ public class Examples {
 //        testTernaryOperator();
 //        testSwitchStatement();
 //        testForLoop();
-        testWhileLoop();
+//        testWhileLoop();
 //        testDoWhileLoop();
 //        testContinueStatement();
-        testBreakStatement();
+//        testBreakStatement();
+        testForIterateArray();
     }
 
     public static void testArithmeticOperations() {
