@@ -12,9 +12,9 @@ public class Examples {
 //        testIfElseIfStatement();
 //        testTernaryOperator();
 //        testSwitchStatement();
-//        testForLoop();
-//        testWhileLoop();
-//        testDoWhileLoop();
+        testForLoop();
+        testWhileLoop();
+        testDoWhileLoop();
 //        testContinueStatement();
 //        testBreakStatement();
         testForIterateArray();
