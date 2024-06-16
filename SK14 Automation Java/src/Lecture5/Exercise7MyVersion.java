@@ -1,10 +1,10 @@
-package Lecture5;
+package Lecture6;
 
 import java.util.LinkedList;
 import java.util.regex.Pattern;
 
 //Write a program which validate whether given string is palindrome (A palindrome is a sequence of characters which reads
-//the same backward as forward, such as madam or racecar)
+//the same backward as forward, such as madam or racecar) - not ready
 
 public class Exercise7MyVersion {
     public static void main(String[] args) {
@@ -18,7 +18,6 @@ public class Exercise7MyVersion {
         String nstr="";
         char ch;
         String str = words.element();
-        for
         for (int i=0; i<str.length(); i++)
         {
             ch= str.charAt(i); //extracts each character

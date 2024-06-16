@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class Exercises {
     public static void main(String[] args) {
         printDynamicMatrixElements();
+        printArraySum();
     }
 
     public static void printArraySum() {
